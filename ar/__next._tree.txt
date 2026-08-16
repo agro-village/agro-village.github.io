@@ -16,4 +16,4 @@
 :HL["/images/products/shower-loofah/shower-loofah.jpg","image"]
 :HL["/images/products/loofah-back-scrubber/loofah-back-scrubber.jpg","image"]
 :HL["/images/products/marina-loofah/marina-loofah.jpeg","image"]
-0:{"tree":{"name":"","param":null,"prefetchHints":4176,"slots":{"children":{"name":"(i18n)","param":null,"prefetchHints":4208,"slots":{"children":{"name":"lang","param":{"type":"d","key":"ar","siblings":[]},"prefetchHints":4144,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4224,"slots":null}}}}}}},"staleTime":300,"buildId":"3ymBnnBFnUpWFVfpUOHeE"}
+0:{"tree":{"name":"","param":null,"prefetchHints":4176,"slots":{"children":{"name":"(i18n)","param":null,"prefetchHints":4208,"slots":{"children":{"name":"lang","param":{"type":"d","key":"ar","siblings":[]},"prefetchHints":4144,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4224,"slots":null}}}}}}},"staleTime":300,"buildId":"MqgGQ4eH0gtszVS4L1cnr"}
