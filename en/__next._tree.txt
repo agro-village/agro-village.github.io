@@ -1,4 +1,4 @@
-:HL["/_next/static/chunks/2c-5oyl5f-hin.css","style"]
+:HL["/_next/static/chunks/1t8opn39f7gzx.css","style"]
 :HL["/_next/static/media/03fc1b4a8d284b5e-s.p.0wiir8udbzjvx.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/_next/static/media/3c285486269019b7-s.p.2g-0we2o5_ngd.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/_next/static/media/6f42e0a3b0519c4d-s.p.13y-iz2lazqtb.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
@@ -16,4 +16,4 @@
 :HL["/images/products/shower-loofah/shower-loofah.jpg","image"]
 :HL["/images/products/loofah-back-scrubber/loofah-back-scrubber.jpg","image"]
 :HL["/images/products/marina-loofah/marina-loofah.jpeg","image"]
-0:{"tree":{"name":"","param":null,"prefetchHints":4176,"slots":{"children":{"name":"(i18n)","param":null,"prefetchHints":4208,"slots":{"children":{"name":"lang","param":{"type":"d","key":"en","siblings":[]},"prefetchHints":4144,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4224,"slots":null}}}}}}},"staleTime":300,"buildId":"2eWUvMgZdwFPrLBGIaq0n"}
+0:{"tree":{"name":"","param":null,"prefetchHints":4176,"slots":{"children":{"name":"(i18n)","param":null,"prefetchHints":4208,"slots":{"children":{"name":"lang","param":{"type":"d","key":"en","siblings":[]},"prefetchHints":4144,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4224,"slots":null}}}}}}},"staleTime":300,"buildId":"3ymBnnBFnUpWFVfpUOHeE"}
