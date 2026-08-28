@@ -1,0 +1,26 @@
+1:"$Sreact.fragment"
+3:I[97367,["/_next/static/chunks/3t7tyt0aiscis.js","/_next/static/chunks/32f2cefvpswkd.js","/_next/static/chunks/0ukf8qphst2m0.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+8:I[97367,["/_next/static/chunks/3t7tyt0aiscis.js","/_next/static/chunks/32f2cefvpswkd.js","/_next/static/chunks/0ukf8qphst2m0.js"],"ViewportBoundary"]
+9:I[97367,["/_next/static/chunks/3t7tyt0aiscis.js","/_next/static/chunks/32f2cefvpswkd.js","/_next/static/chunks/0ukf8qphst2m0.js"],"MetadataBoundary"]
+a:I[27201,["/_next/static/chunks/3t7tyt0aiscis.js","/_next/static/chunks/32f2cefvpswkd.js","/_next/static/chunks/0ukf8qphst2m0.js"],"IconMark"]
+c:I[39756,["/_next/static/chunks/3t7tyt0aiscis.js","/_next/static/chunks/32f2cefvpswkd.js","/_next/static/chunks/0ukf8qphst2m0.js"],"default"]
+d:I[37457,["/_next/static/chunks/3t7tyt0aiscis.js","/_next/static/chunks/32f2cefvpswkd.js","/_next/static/chunks/0ukf8qphst2m0.js"],"default"]
+11:I[60715,["/_next/static/chunks/3t7tyt0aiscis.js","/_next/static/chunks/32f2cefvpswkd.js","/_next/static/chunks/0ukf8qphst2m0.js"],"default"]
+:HL["/_next/static/chunks/3h2jfrf12pnrh.css","style"]
+7:X
+f:X
+f:C
+0:{"buildId":"POGS2DTSEEkYA7sQ-WSjy","data":[{"rsc":["$","$1","c",{"children":["$L2",null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"isPartial":"$@6","staleTime":"$7","varyParams":null},{"rsc":["$","$1","h",{"children":[null,["$","$L8",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","div",null,{"hidden":true,"children":["$","$L9",null,{"children":["$","$4",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Agro Village"}],["$","link","1",{"rel":"icon","href":"/icon.png?icon.1p8mafeyyydm0.png","sizes":"127x127","type":"image/png"}],["$","$La","2",{}]]}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"isPartial":"$@b","staleTime":"$7","varyParams":null},{"rsc":["$","$1","c",{"children":[null,["$","$Lc",null,{"parallelRouterKey":"children","template":["$","$Ld",null,{}]}]]}],"isPartial":"$@e","staleTime":"$7","varyParams":"$f"},{"rsc":["$","$1","c",{"children":[null,["$","$Lc",null,{"parallelRouterKey":"children","template":["$","$Ld",null,{}]}]]}],"isPartial":"$@10","staleTime":"$7","varyParams":"$f"},{"rsc":["$","$1","c",{"children":[null,["$","html",null,{"lang":"en","children":["$","body",null,{"children":["$","$Lc",null,{"parallelRouterKey":"children","template":["$","$Ld",null,{}],"notFound":[["$","$L11",null,{}],[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/3h2jfrf12pnrh.css","precedence":"next"}]]]}]}]}]]}],"isPartial":"$@12","staleTime":"$7","varyParams":null},{"rsc":["$","$1","c",{"children":[null,["$","$Lc",null,{"parallelRouterKey":"children","template":["$","$Ld",null,{}],"notFound":[["$","$L11",null,{}],[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/3h2jfrf12pnrh.css","precedence":"next"}]]]}]]}],"isPartial":"$@13","staleTime":"$7","varyParams":"$f"}],"isUpgradeableISRFallback":false,"a":"$@14","rootVaryParams":null,"needsRuntimeRequest":"$@15"}
+2:E{"digest":"NEXT_REDIRECT;replace;/en/products/glove;307;"}
+5:null
+7:300
+15:true
+7:C
+14:0
+b:"$undefined"
+e:"$undefined"
+10:"$undefined"
+12:"$undefined"
+13:"$undefined"
+6:"$undefined"
